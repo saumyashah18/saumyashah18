@@ -4,7 +4,7 @@
 
 **Final-year B.Sc. CS (Hons) · Ahmedabad University · Class of 2026**
 
-*LLM systems builder · Data science enthusiast · Blockchain hackathon winner*
+*Active Learner · Data science enthusiast · Bluiding Better and Better*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saumyashah18-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/saumyashah18)
 [![GitHub](https://img.shields.io/badge/GitHub-SaumyaShah-181717?style=flat-square&logo=github)](https://github.com/saumyashah18)
