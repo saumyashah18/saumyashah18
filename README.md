@@ -60,16 +60,6 @@ It replaces expensive SaaS EdTech tools, integrates natively with the university
 
 ---
 
-### 🤖 RAG Chatbot System *(Ongoing)*
-> Document-grounded AI responses — no hallucinations allowed.
-
-`Python` `LLMs` `RAG` `FAISS` `Vector Databases`
-
-- Hybrid chunking strategies + preprocessing pipelines converting unstructured docs into embeddings
-- Optimizing for response relevance, latency, and scalability
-
----
-
 ## 🛠️ Tech Stack
 
 ```
