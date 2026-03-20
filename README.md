@@ -60,16 +60,6 @@ It replaces expensive SaaS EdTech tools, integrates natively with the university
 
 ---
 
-### ⚽ SportNearMe *(SoHo Dragon Internship)*
-> Sports turf discovery and booking — MERN stack, shipped.
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-- User authentication, role-based flows for customers and turf owners
-- RESTful APIs, CRUD operations, UI design through full test & iteration cycles
-
----
-
 ### 🤖 RAG Chatbot System *(Ongoing)*
 > Document-grounded AI responses — no hallucinations allowed.
 
