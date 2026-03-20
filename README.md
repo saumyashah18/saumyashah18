@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm saumya. 👋
+# hello, i'm Saumya Shah. 👋
 
 **Final-year B.Sc. CS (Hons) · Ahmedabad University · Class of 2026**
 
